@@ -7,8 +7,6 @@
 
 # components
 /src/DateCounter.js
-/src/Error.js
-/src/Loader.js
 
 # testing
 /coverage
