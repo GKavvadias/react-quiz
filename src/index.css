@@ -38,6 +38,8 @@ body {
 
 .main {
   width: 50rem;
+  text-align: center;
+  align-items: center;
 }
 
 .app-header {
@@ -116,7 +118,6 @@ progress {
 }
 
 .btn {
-  display: block;
   font-family: inherit;
   color: inherit;
   font-size: 2rem;
